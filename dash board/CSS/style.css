@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*---------------sidebar-section-----------*/
+.side_bar
+{
+    box-shadow: rgba(0, 0, 0, 0.30) 2.5px 2.4px 0px;
+}
